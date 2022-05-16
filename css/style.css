@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+}
+.container {
+  display: flex;
+}
+.topo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.topo-image {
+  width: 40%;
+}
+.login-button {
+  font-size: 20px;
+  color: #da4760;
+}
