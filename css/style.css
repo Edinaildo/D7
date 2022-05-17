@@ -9,6 +9,7 @@ body {
 }
 .container {
   display: flex;
+  height: 60px;
   background-color: #fff;
 }
 .topo {
@@ -39,10 +40,20 @@ body {
 .pink-body-fonte-grande {
   font-size: 25px;
   color: #fff;
-  margin-right: 20px;
-  margin-left: 20px;
+  margin-right: 30px;
+  margin-left: 30px;
 }
 .pink-body-fonte-pequena {
-  font-size: 15px;
+  font-size: 20px;
   color: #fff;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.white-card {
+  display: flex;
+  width: 85%;
+  height: 60%;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 10px;
 }
