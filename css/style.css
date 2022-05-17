@@ -2,8 +2,14 @@ html,
 body {
   height: 100%;
 }
+body {
+  background-image: url(https://dals0gb6i1pll.cloudfront.net/img/banner-mobile-buser.e1bda3c.png);
+  background-size: cover;
+  background-position: top;
+}
 .container {
   display: flex;
+  background-color: #fff;
 }
 .topo {
   display: flex;
@@ -31,8 +37,10 @@ body {
   height: 100%;
 }
 .pink-body-fonte-grande {
-  font-size: 20px;
-  color: rgb(69, 16, 16);
+  font-size: 25px;
+  color: #fff;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 .pink-body-fonte-pequena {
   font-size: 15px;
