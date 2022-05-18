@@ -6,6 +6,7 @@ body {
   background-image: url(https://dals0gb6i1pll.cloudfront.net/img/banner-mobile-buser.e1bda3c.png);
   background-size: cover;
   background-position: top;
+  font-family: "Lato", sans-serif;
 }
 .container {
   display: flex;
@@ -42,10 +43,11 @@ body {
   height: 100%;
 }
 .pink-body-fonte-grande {
-  font-size: 25px;
+  font-size: 30px;
   color: #fff;
   margin-right: 30px;
   margin-left: 30px;
+  font-weight: 900;
 }
 .pink-body-fonte-pequena {
   font-size: 20px;
