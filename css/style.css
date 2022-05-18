@@ -57,3 +57,10 @@ body {
   background-color: #fff;
   border-radius: 10px;
 }
+.buser-forms {
+  margin: auto;
+  margin-top: 20px;
+}
+.data-box {
+  width: 250px;
+}
