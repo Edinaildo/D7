@@ -64,3 +64,9 @@ body {
 .data-box {
   width: 250px;
 }
+.search-button {
+  width: 250px;
+  height: 50px;
+  margin-top: 15px;
+  background-color: #da4760;
+}
