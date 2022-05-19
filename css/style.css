@@ -90,9 +90,31 @@ body {
   border: none;
 }
 .rodape {
-  height: 30px;
+  justify-content: flex-start;
+  align-items: center;
+  height: 50px;
   background-color: #fff;
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+.footer {
+  display: flex;
+  justify-content: space-around;
+  justify-items: center;
+}
+.icon {
+  align-items: center;
+}
+
+.footer-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: auto;
+  margin-top: 10px;
+}
+.footer-text {
+  font-size: 15px;
+  color: black;
+  margin-top: 0;
 }
