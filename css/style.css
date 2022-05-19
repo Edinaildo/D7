@@ -91,7 +91,6 @@ body {
 }
 .rodape {
   justify-content: flex-start;
-  align-items: center;
   height: 50px;
   background-color: #fff;
   position: fixed;
@@ -101,10 +100,11 @@ body {
 .footer {
   display: flex;
   justify-content: space-around;
-  justify-items: center;
+  align-items: center;
 }
 .icon {
-  align-items: center;
+  display: block;
+  text-align: center;
 }
 
 .footer-icon {
