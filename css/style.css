@@ -42,6 +42,10 @@ body {
   width: 100%;
   height: 100%;
 }
+.body-icon {
+  width: 30px;
+  height: 30px;
+}
 
 .pink-body-fonte-grande {
   font-size: 28px;
